@@ -1,0 +1,41 @@
+Company: Inditronics Pvt Ltd
+
+Headquarters: Pune, Maharashtra
+
+second Office: પેન્સિલવેનિયા, us
+
+Industries Covered: 21+
+
+Data Processed: 100+TB
+
+Founded: 2016
+
+CEO: Keshav Shinde 
+
+Services:
+- Hardware Design
+- Custom Software Development
+- IoT Solutions
+- Media Processing & Monitoring
+
+Trusted by:
+- BARC, Jio Devices, alto-shaam
+
+
+IoT = Internet of Things
+ - it is network of physical devices
+ which collect, send, and receive data
+
+- Smart Home devices (e.g., Alexa, smart bulbs, smart thermostats)
+- Smart sensors in agriculture (e.g., soil moisture, temperature)
+- Health monitors (e.g., heart rate or glucose tracking)
+
+
+🔧 How It Works:
+Sensors/Devices collect data (e.g., temperature, motion).
+
+Data is sent to the Internet using Wi-Fi, Bluetooth, or mobile networks.
+
+Cloud or Edge Computing processes the data.
+
+Data is used to automate actions or sent to an app to monitor or control.
